@@ -1,3 +1,4 @@
 # BalticRTIpaper
-This repository contains the scripts used for the paper on RTI in the Baltic Sea
-First use the scripts data prepartion 1 and 2, then the scripts for the respective figures and tables to reproduce the ones in the paper.
+This repository contains the scripts used for the paper on RTI in the Baltic Sea.
+First use the scripts data preparation 1 and 2, then the scripts for the respective figures and tables to reproduce the ones in the paper.
+The raw fisheries data sets that were used for the analyses are confidential. VMS and logbook data belong to the respective fishers and are subject to the special protection of personal and economic data and thus confidential. They are collected by the state authorities for control purposes. The Thünen Institute is allowed to use these VMS and logbook data obtained by the responsible German Control Agency (BLE) for scientific purposes, but only if the following is ensured: (i) raw data will by no means be forwarded to third parties; (ii) only sufficiently aggregated and anonymised results may be used and published for scientific purposes in publications, but it is not allowed to forward the underlying data to third parties.
